@@ -2,7 +2,7 @@
 ````markdown
 
 # Weather API
----
+
 A weather API built with FastAPI that fetches weather data from the Visual Crossing Weather API, caches responses using Redis, handles external service errors, and protects the API with rate limiting.
 
 This project was built as a practical backend project to learn how to work with:
@@ -16,7 +16,7 @@ This project was built as a practical backend project to learn how to work with:
 - Automated testing
 - Docker and Docker Compose
 
----
+
 
 ## Features
 
@@ -31,7 +31,7 @@ This project was built as a practical backend project to learn how to work with:
 - Automated tests with pytest
 - Run the complete application with Docker Compose
 
----
+
 
 ## Tech Stack
 
@@ -49,7 +49,7 @@ This project was built as a practical backend project to learn how to work with:
 - Docker Compose
 - Visual Crossing Weather API
 
----
+
 
 ## Architecture
 
@@ -196,7 +196,7 @@ REDIS_URL=
 ### 1. Clone the repository
 
 ```bash
-git clone ItsMikaeil
+git clone https://github.com/ItsMikaeil/Weather-api
 cd weather-api
 ```
 
