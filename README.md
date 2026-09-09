@@ -1,7 +1,5 @@
 
 
-````markdown
-
 # Weather API
 
 A weather API built with FastAPI that fetches weather data from the Visual Crossing Weather API, caches responses using Redis, handles external service errors, and protects the API with rate limiting.
